@@ -11,8 +11,8 @@ Tells you if you are correct or incorrect after each answer
 At the end shows your results and final score
 
 How to run
-Make sure you have Python installed, then run:
 python main.py
+
 Example output
 ------------------------------
 1 / 5
