@@ -25,6 +25,7 @@ B. Madrid
 C. Paris
 
 D. Rome
+
 Enter (A, B, C, D): C
 CORRECT!
 ------------------------------
