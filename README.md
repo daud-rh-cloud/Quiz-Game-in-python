@@ -10,7 +10,8 @@ You answer each question by typing A, B, C, or D
 Tells you if you are correct or incorrect after each answer
 At the end shows your results and final score
 
-How to run
+How to run/
+
 python main.py
 
 Example output
