@@ -15,7 +15,9 @@ python main.py
 Example output
 ------------------------------
 1 / 5
+
 What is the capital of France?
+
 A. Berlin
 B. Madrid
 C. Paris
