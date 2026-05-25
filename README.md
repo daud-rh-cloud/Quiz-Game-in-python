@@ -17,14 +17,20 @@ Example output
 ------------------------------
 1 / 5
 What is the capital of France?
+
 A. Berlin
+
 B. Madrid
+
 C. Paris
+
 D. Rome
 Enter (A, B, C, D): C
 CORRECT!
 ------------------------------
+
        RESULT
+       
 ------------------------------
 Input:- C,B,D
 Answers- C,B,D
