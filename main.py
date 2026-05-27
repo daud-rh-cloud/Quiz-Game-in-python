@@ -15,7 +15,7 @@ questions = [
 
 guesses = []
 chosen_index = int(input("How many questions would you like to play? (1-10): "))
-picked_quetions = random.sample(questions, chosen_index)
+picked_quetions = random.sample(questions, chosen_index)                       #### Chossing Random Questions
 Correct = 0 
 incorrect = 0 
 
@@ -29,11 +29,11 @@ for question in picked_quetions:
    guesses.append (guess)                             #to Print the Answers Later 
    if guess == question[1]:
     print ("CORRECT!")
-    Correct = Correct + 1
-    question_nummer += 1 
+    Correct = Correct + 1                              #to store ammout of correct Answer to later calculater Winrate ***
+    question_nummer += 1                               #updating the question nummer tracing  1/10
    else : 
      print (f"INCORRECT ! The answer was {question[1]}")
-     incorrect = Correct - 1 
+     incorrect = Correct - 1                            #to store ammout of Incorrect Answer to later calculater Winrate ***
      question_nummer += 1 
 
 
